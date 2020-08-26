@@ -1,0 +1,10 @@
+[
+    {
+        "path": "/dogs",
+        "url": "https://en.wikipedia.org/wiki/Dog"
+    },
+    {
+        "path": "/cats",
+        "url": "https://en.wikipedia.org/wiki/Cat"
+    }
+]

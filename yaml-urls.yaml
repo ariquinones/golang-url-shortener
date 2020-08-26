@@ -1,0 +1,4 @@
+- path: /horses
+  url: 'https://en.wikipedia.org/wiki/Horse'
+- path: /cows
+  url: 'https://en.wikipedia.org/wiki/Cattle'
